@@ -14,7 +14,7 @@ Solutions for LeetCode's "Top Interview 150 Challenge" https://leetcode.com/stud
 * Link to the solution: [link](src/main/java/com/leetcode/remove_element_27/Solution.java)
   ![img.png](screenshots/remove_element_27.png)
 
-## Problem: 27. Remove Element
+## Problem: 26. Remove Duplicates from Sorted Array
 
 * Link to the problem: [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description)
 * Link to the solution: [link](src/main/java/com/leetcode/remove_duplicates_from_sorted_array_26/Solution.java)
