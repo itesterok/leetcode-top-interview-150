@@ -25,3 +25,10 @@ Solutions for LeetCode's "Top Interview 150 Challenge" https://leetcode.com/stud
 * Link to the problem: [link](https://leetcode.com/problems/majority-element/description)
 * Link to the solution: [link](src/main/java/com/leetcode/majority_element_169/Solution.java)
 ![img_169.png](screenshots%2Fimg_169.png)
+
+## Problem: 242. Valid Anagram
+
+* Link to the problem: [link](https://leetcode.com/problems/valid-anagram)
+* Link to the solution: [link](src/main/java/com/leetcode/valid_anagram_242/Solution.java)
+* * Link to the solution: [link](src/main/java/com/leetcode/valid_anagram_242/SolutionFollowUp.java)
+![img_1.png](screenshots/img_242.png)
