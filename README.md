@@ -29,6 +29,6 @@ Solutions for LeetCode's "Top Interview 150 Challenge" https://leetcode.com/stud
 ## Problem: 242. Valid Anagram
 
 * Link to the problem: [link](https://leetcode.com/problems/valid-anagram)
-* Link to the solution: [link](src/main/java/com/leetcode/valid_anagram_242/Solution.java)
-* * Link to the solution: [link](src/main/java/com/leetcode/valid_anagram_242/SolutionFollowUp.java)
+* Link to the brute force solution: [link](src/main/java/com/leetcode/valid_anagram_242/Solution.java)
+* Link to the enhanced solution: [link](src/main/java/com/leetcode/valid_anagram_242/SolutionFollowUp.java)
 ![img_1.png](screenshots/img_242.png)
